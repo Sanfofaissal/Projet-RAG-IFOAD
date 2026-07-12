@@ -23,7 +23,7 @@ COLLECTION_NAME    = "ifoad_communiques"
 EMBEDDING_MODEL    = "paraphrase-multilingual-MiniLM-L12-v2"
 GROQ_MODEL         = "llama-3.3-70b-versatile"
 N_RESULTS          = 4       # nombre de chunks récupérés par requête
-SIMILARITY_CUTOFF  = 0.55    # seuil en dessous duquel on considère qu'on ne sait pas (distance cosinus)
+SIMILARITY_CUTOFF  = 0.35    # seuil en dessous duquel on considère qu'on ne sait pas (distance cosinus)
 
 SYSTEM_PROMPT = """Tu es l'Assistant Officiel de l'IFOAD-UJKZ (Institut de Formation Ouverte et à Distance de l'Université Joseph Ki-Zerbo), au Burkina Faso.
 
