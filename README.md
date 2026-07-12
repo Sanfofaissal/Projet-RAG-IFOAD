@@ -2,6 +2,7 @@
 
 **Projet Data Science 2026 — Master 1 IFOAD · Université Joseph Ki-Zerbo**  
 **Enseignant : Dr Delwende D. Arthur SAWADOGO**
+---
 **Groupe 2 : OUEDRAOGO Kiswendsida Marie Monique et SANFO Faïssal**
 ---
 **Lien streamlit : https://projet-rag-ifoad-5pmwg7epkxsw8ntrcawkun.streamlit.app/**
