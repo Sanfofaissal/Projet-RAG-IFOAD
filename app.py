@@ -308,8 +308,7 @@ def main():
             "Quelles sont les conditions pour le Master Data Science ?",
             "Quels sont les frais d'inscription en Licence ?",
             "Quand est la date limite pour rendre le projet final ?",
-            "Comment soumettre ma candidature sur Campus Faso ?",
-            "Quelle est la durée de la formation en Certificat Numérique ?",
+            "Comment soumettre ma candidature pour le Master Data Science ?",
         ]
         for s in suggestions:
             if st.button(s, use_container_width=True):
