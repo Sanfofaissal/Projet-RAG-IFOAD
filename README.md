@@ -4,7 +4,7 @@
 **Enseignant : Dr Delwende D. Arthur SAWADOGO**
 **Groupe 2 : OUEDRAOGO Kiswendsida Marie Monique et SANFO Faïssal**
 ---
-
+**Lien streamlit : https://projet-rag-ifoad-5pmwg7epkxsw8ntrcawkun.streamlit.app/**
 ## 📌 Présentation
 
 Cet assistant intelligent permet aux étudiants et candidats de l'IFOAD-UJKZ d'obtenir des réponses précises sur :
